@@ -1,0 +1,144 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+}
+.ullist{
+    padding: 5px;
+
+}
+#navbar ul li a{
+    margin: 3px -15px;
+    font-size: 15px;
+}
+#navbar ul li{
+    margin: 0px 40px;
+}
+
+#logo img{
+
+    width: 40px;
+    height: 40px;
+
+}
+section #par1
+{
+    font-size: 15px;
+    margin: 118px -236px;
+}
+section #par2
+{        font-size: 15px;
+    margin: -109px -161px;
+}
+/* home */
+
+#home::before{
+    width: 170%;
+    align-items: top;
+    height: 470px;
+    margin-top: -245px;
+}
+#home h1{
+
+    margin: -85px -263px;
+    margin-left: -349px;
+    padding: 27px 10px;
+    font-size: 20px;
+}
+#home .btn{
+    font-size: 1rem;
+    margin-top: -81px;
+    margin-left: -53px;
+    padding: 0px 0px;
+    width: 118px;
+
+}
+/* service */
+#services{
+    flex-direction: column;
+}
+
+
+#h-primary-center{
+    font-size: 2rem;
+    margin-top: -101px;
+    margin-left: 0px;
+}
+#services .box img{
+    height: 100px;
+
+}
+.box h1{
+    margin-top: 14px;
+    font-size: 23px;
+}
+.box p{
+
+    font-size: 12px;
+}
+#services .box{
+    padding: 10px 10px;
+    margin: 4px;
+    margin-left: 30px;
+    width: 260px;
+}
+
+/* folllow pages  */
+#follow-section h1{
+    font-size: 1.5rem;
+    margin-top: 64px;
+    margin-left: 42px;
+}
+.follow::before{
+    width: 150%;
+    height: 394px;
+    margin-top: -117px;
+}
+.follow{
+    position: relative;
+    display: flex;
+    margin-top: 30px;
+    flex-flow: wrap;
+    color: black align-items: center;
+    justify-content: center;
+}
+#logo{
+    margin: 18px;
+    padding: 0px;
+
+}
+#logo h5{
+    font-size: 5px;
+}
+/* details form */
+#details-form h1{
+    font-size: 1.5rem;
+    margin-top: 127px;
+    margin-left: 28px;
+}
+
+.form input{
+    width: 261px;
+    height: 30px;
+
+}
+#details::before{
+    width: 150%;
+    height: 385px;
+    z-index: -1;
+    margin-top: -7px;
+}
+.form{
+
+    font-size: 13px;  
+      margin: 9px 34px;
+
+    padding: 5px;
+    width: 200px;
+}
+/* footer */
+#footer{
+    font-size: 1rem;
+    width: 419px;
+    height: 24px;
+    margin-top: -25px;
+}
